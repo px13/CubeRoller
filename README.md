@@ -4,4 +4,4 @@ Aplikácia po spustení vygeneruje plochu 5x5 s náhodným počtom nedostupných
 
 Okrem hracej plochy aplikácia obsahuje 3 tlačítka. Nová hra: Vygeneruje novú hru. Save: Uloží momentálnu hru do zvoleného súboru. Load: Načíta hru zo súboru.
 
-Aplikácia vytvorená vo vývojovom prostredí Eclipse s grafickou knižnicou JavaFX
+Aplikácia vytvorená vo vývojovom prostredí Eclipse s využitím grafickej knižnice JavaFX.
